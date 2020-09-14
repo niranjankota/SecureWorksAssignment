@@ -1,0 +1,3 @@
+ftp_file_download_url=ftp://ita.ee.lbl.gov/traces/NASA_access_log_Jul95.gz
+target_file_download_path=/root/data
+top_n_value=3
